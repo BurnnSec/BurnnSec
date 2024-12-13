@@ -12,7 +12,7 @@
 - 🔴 Red hat 
 - 🎥 Content creator on [Youtube](https://www.youtube.com/@BurnnSec)
 - ✏️ I write in [BurnnSecurity's Blog]()
-- 🌐 ESP
+- 🌐 Actualy living in ESP
 
 ## Projects *Coming soon*
 
